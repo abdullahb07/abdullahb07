@@ -1,4 +1,4 @@
-![Header](path/to/your/banner.png)
+![Header](DALL·E 2024-09-16 18.40.08 - A banner featuring a blend of modern coding themes like artificial intelligence, machine learning, and web development, integrated with elements of ca.webp)
 
 
 ### Hi there, I'm Abdullah 👋
