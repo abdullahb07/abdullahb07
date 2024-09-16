@@ -1,6 +1,3 @@
-![Header](DALL·E 2024-09-16 18.40.08 - A banner featuring a blend of modern coding themes like artificial intelligence, machine learning, and web development, integrated with elements of ca.webp)
-
-
 ### Hi there, I'm Abdullah 👋
 
 - 👀 I'm a second-year B.Tech student in Computer Engineering with a deep interest in AI and Machine Learning.
@@ -29,7 +26,7 @@
 Let's connect and create something amazing together 🚀
 
 
-
+![Header](banner)
 
 <!---
 abdullahb07/abdullahb07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
